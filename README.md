@@ -1,3 +1,8 @@
+This is a fork of the How-To Amazon Alexa template, modified to help the user explore Fallout 4 crafting though the workshop.
+Original information and installation docs below. 
+This is a WORK IN PROGRESS.
+
+------------------
 # Step-by-Step Guide to Build a How-To Skill
 
 We have launched a new skill template that makes it easy for developers and non-developers to create a skill similar to “DrinkMaster”, "Aromatherapy", "Timed Meditation", "Minecraft Helper", etc. These type of skills share the unique ability to parameterize what the user says and map it to a content catalog. For example, a user might say "Alexa, Ask Aromatherapy for a recipe for focus" and Alexa would map the word "focus" to the correct oil combination in the content catalog. Or, a user might say "Alexa, Ask DrinkMaster how to make a Margarita" and Alexa would map the word "margarita" to the correct drink recipe in the content catalog.
